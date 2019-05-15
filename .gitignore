@@ -27,3 +27,4 @@ hs_err_pid*
 
 # MySQL Workbench backup files
 *.bak
+/dist/
